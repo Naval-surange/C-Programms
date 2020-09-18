@@ -1,0 +1,2 @@
+ISA for PC : x86_64
+ISA for mobile : ARM64-v8a
